@@ -4,7 +4,7 @@
 
 ## 🚀 项目目标
 
-- 掌握Python核心语法
+- 掌握Python的核心语法
 - 熟练使用NumPy, Pandas进行数据处理
 - 为未来的AI4Science研究打下基础
 
