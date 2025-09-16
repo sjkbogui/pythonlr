@@ -1,0 +1,19 @@
+# VSCode 设置
+.vscode/
+
+# Python 字节码和缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 虚拟环境（如果你以后创建的话）
+venv/
+env/
+.venv/
+
+# 其他杂项
+.DS_Store  # (Mac系统文件)
+thumbs.db  # (Windows缩略图缓存)
